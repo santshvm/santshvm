@@ -24,3 +24,5 @@ My interests include:
 
 Currently I am working on: 
 - Data Analytics Projects 
+
+Note: Most of my recent contributions have been in private repositories. However, I'm actively working on several exciting projects and hope to make them public soon!
