@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **santshvm/santshvm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+CS undergrad with an insatiable appetite for learning new programming languages and tech stacks through hands-on project building. Passionate about open-source, collaboration, and innovation. Let's team up and create something extraordinary together!
