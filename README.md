@@ -17,3 +17,10 @@ Here are some ideas to get you started:
 
 
 CS undergrad with an insatiable appetite for learning new programming languages and tech stacks through hands-on project building. Passionate about open-source, collaboration, and innovation. Let's team up and create something extraordinary together!
+
+My interests include: 
+- Web Application Development Using MERN Stack
+- Data Analytics And Visualization
+
+Currently I am working on: 
+- Data Analytics Projects 
