@@ -23,10 +23,10 @@ Over the past few months, I've been dipping my toes into data science and machin
 
 Some of the things I've been focusing on lately include:
 
--Learning the Python programming language and its data science libraries such as NumPy, Pandas, and Matplotlib.
--Exploring data cleaning and preprocessing techniques to prepare data for analysis and machine learning.
--Building and evaluating machine learning models using popular algorithms like linear regression, decision trees, and random forests.
--Learning how to use powerful tools like TensorFlow and Keras to build deep learning models for complex problems.
+- Learning the Python programming language and its data science libraries such as NumPy, Pandas, and Matplotlib.
+- Exploring data cleaning and preprocessing techniques to prepare data for analysis and machine learning.
+- Building and evaluating machine learning models using popular algorithms like linear regression, decision trees, and random forests.
+- Learning how to use powerful tools like TensorFlow and Keras to build deep learning models for complex problems.
 
 ## My Goal
 My goal is to continue to deepen my knowledge and skills in data science and machine learning, with the aim of transitioning into this exciting field in the near future. While I have a lot to learn, I'm passionate about this area and excited about the opportunities it offers to make a real impact with data.
