@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 CS undergrad with an insatiable appetite for learning new programming languages and tech stacks through hands-on project building. Passionate about open-source, collaboration, and innovation. While I enjoy web development, I've recently been exploring the exciting world of data science and machine learning, with the goal of transitioning to this field in the near future.
 
 ## What I've Been Up To Lately
-Over the past few months, I've been dipping my toes into data science and machine learning, learning as much as I can and working on personal projects to build my skills. Although I'm still at the beginning of my journey, I'm already starting to see the power of these technologies and the potential they offer to drive innovation and solve problems.  That's why I've been recently started exploring the exciting world of data science and machine learning, with the goal of transitioning to this field in the near future. 
+Over the past few months, I've been dipping my toes into data science and machine learning, learning as much as I can and working on personal projects to build my skills. Although I'm still at the beginning of my journey, I'm already starting to see the power of these technologies and the potential they offer to drive innovation and solve problems.  That's why I've recently started exploring the exciting world of data science and machine learning, with the goal of transitioning to this field in the near future. 
 
 Some of the things I've been focusing on lately include:
 
