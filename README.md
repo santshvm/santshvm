@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Summary
 
 CS undergrad with an insatiable appetite for learning new programming languages and tech stacks through hands-on project building. Passionate about open-source, collaboration, and innovation. While I enjoy web development, I've recently been exploring the exciting world of data science and machine learning, with the goal of transitioning to this field in the near future.
 
