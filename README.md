@@ -22,4 +22,4 @@ CS undergrad with an insatiable appetite for learning new programming languages 
 
 **Note:** Most of my recent contributions have been in private repositories. However, I'm actively working on several exciting projects and hope to make them public soon!
 
-Discover more about me! Visit my personal website at [https://about.santshvm.com/]about-santosh.
+Discover more about me! Visit my personal website at (https://about.santshvm.com/)[about-santosh].
