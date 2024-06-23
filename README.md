@@ -17,9 +17,13 @@ Here are some ideas to get you started:
 
 ## Summary
 
-CS undergrad with an insatiable appetite for learning new programming languages and tech stacks through hands-on project building. Passionate about open-source, collaboration, and innovation. 
+I am a recent graduate with a Bachelor's degree in Computer Science and Engineering. I am currently working as a Test Engineer at a company that provides BSS software to the telecom industry. I am not active on GitHub anymore, but I am always eager to connect and collaborate.
+
+## Skills
+- Testing: Manual Testing, Automated Testing <br> 
+- Tools: Selenium, JUnit, TestNG <br> 
+- Languages: Python, Java <br> 
 
 
-**Note:** Most of my recent contributions have been in private repositories. However, I'm actively working on several exciting projects and hope to make them public soon!
+**<i>P.S.<i>** <i> I have transitioned to software testing from development<i>
 
-Discover more about me! Visit my personal website at [about-santosh](https://about.santshvm.com/).
