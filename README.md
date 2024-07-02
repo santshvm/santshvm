@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Summary
 
-I am a recent graduate with a Bachelor's degree in Computer Science and Engineering. I am currently working as a Test Engineer at a company that provides BSS software to the telecom industry. I am not active on GitHub anymore, but I am always eager to connect and collaborate.
+I am a recent graduate with a Bachelor's degree in Computer Science and Engineering. I am currently working as a Test Engineer at a company that provides BSS software to the telecom industry. 
 
 ## Skills
 - Testing: Manual Testing, Automated Testing <br> 
@@ -25,5 +25,5 @@ I am a recent graduate with a Bachelor's degree in Computer Science and Engineer
 - Languages: Python, Java <br> 
 
 
-**<i>P.S.<i>** <i> I have transitioned to software testing from development<i>
+**<i>P.S.<i>** <i> I have recently transitioned to software testing from development<i>
 
