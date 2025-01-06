@@ -17,13 +17,10 @@ Here are some ideas to get you started:
 
 ## Summary
 
-I am a recent graduate with a Bachelor's degree in Computer Science and Engineering. I am currently working as a Test Engineer at a company that provides BSS software to the telecom industry. 
+I am CS graduate with a strong passion for learning and exploring emerging technologies. My journey in tech began as a Software Test Engineer at a leading telecom BSS solutions provider, where I worked in an agile development team, performing functional testing and ensuring software quality. 
 
-## Skills
-- Testing: Manual Testing, Automated Testing <br> 
-- Tools: Selenium, JUnit, TestNG <br> 
-- Languages: Python, Java <br> 
+During college, I delved into full-stack web development, built robust applications using the JavaScript tech stack for backend. Currently, I'm on a career break, dedicating my time to upskilling in cloud technologies and DevOps, and immersing myself in the Python tech stack and OpenAI's GPT-4 APIs. Alongside learning new technologies and building projects, I pursue coding as a hobby and have a strong knack for problem-solving.
 
 
-**<i>P.S.<i>** <i> I have recently transitioned to software testing from development<i>
+
 
