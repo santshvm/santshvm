@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I am CS graduate with a strong passion for learning and exploring emerging technologies. My journey in tech began as a Software Test Engineer at a leading telecom BSS solutions provider, where I worked in an agile development team, performing functional testing and ensuring software quality. 
 
-During college, I delved into full-stack web development, built robust applications using the JavaScript tech stack for backend. Currently, I'm on a career break, dedicating my time to upskilling in cloud technologies and DevOps, and immersing myself in the Python tech stack and OpenAI's GPT-4 APIs. Alongside learning new technologies and building projects, I pursue coding as a hobby and have a strong knack for problem-solving.
+During college, I delved into full-stack web development, built robust applications using the JavaScript tech stack for backend. Currently, I am dedicating my time to upskilling in cloud technologies and DevOps, and immersing myself in the Python tech stack and OpenAI's GPT-4 APIs. Alongside learning new technologies and building projects, I pursue coding as a hobby and have a strong knack for problem-solving.
 
 
 
